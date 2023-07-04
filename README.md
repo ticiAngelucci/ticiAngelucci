@@ -4,6 +4,7 @@
 <img src="https://charlesdesignfor.me/wp-content/uploads/2017/10/Banner-924x300.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/ticiAngelucci?style=social)](https://github.com/ticiAngelucci)
+[![Linkedln](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://github.com/ticiAngelucci)
 
 
 ## Sobre mi
