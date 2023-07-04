@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1 align="center">Buenas, soy Tici 👋</h1>
 </div>
 <img src="https://charlesdesignfor.me/wp-content/uploads/2017/10/Banner-924x300.png">
