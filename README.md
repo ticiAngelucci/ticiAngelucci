@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Buenas, soy Tici 👋</h1>
+</div>
+<img src="https://charlesdesignfor.me/wp-content/uploads/2017/10/Banner-924x300.png">
 
-<!--
-**ticiAngelucci/ticiAngelucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/ticiAngelucci?style=social)](https://github.com/ticiAngelucci)
+![Discord Shield](https://discordapp.com/api/guilds/493273742974386177/widget.png?style=shield)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Fullstack developer
+- ⭐ Java trainee
+- ⭐ Undergraduate student in Systems Engineering
+- ⭐ Englis-Italian-Spanish
+- ⭐ Always eager to learn and stay up-to-date with the latest industry trends
+- ⭐ Currently expanding my knowledge and skills through coursework and personal projects
+<br>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ticiAngelucci&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ticiAngelucci&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
