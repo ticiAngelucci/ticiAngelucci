@@ -4,7 +4,7 @@
 <img src="https://charlesdesignfor.me/wp-content/uploads/2017/10/Banner-924x300.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/ticiAngelucci?style=social)](https://github.com/ticiAngelucci)
-![Discord Shield](https://discordapp.com/api/guilds/493273742974386177/widget.png?style=shield)
+
 
 ## Sobre mi
 
@@ -14,6 +14,7 @@
 - ⭐ Englis-Italian-Spanish
 - ⭐ Always eager to learn and stay up-to-date with the latest industry trends
 - ⭐ Currently expanding my knowledge and skills through coursework and personal projects
+- ⭐ Discord Account b1acka
 <br>
 
 
