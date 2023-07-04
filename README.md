@@ -4,7 +4,7 @@
 <img src="https://charlesdesignfor.me/wp-content/uploads/2017/10/Banner-924x300.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/ticiAngelucci?style=social)](https://github.com/ticiAngelucci)
-<a href="www.linkedin.com/in/ticiana-angelucci-12098b23a">
+<a href="www.linkedin.com/in/ticiana-angelucci-12098b23a" target="_blank">
   <img width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 
