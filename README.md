@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Buenas, soy Tici 👋</h1>
 </div>
-<img src="https://charlesdesignfor.me/wp-content/uploads/2017/10/Banner-924x300.png">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVN2CK1JWeZYa0CA1RLD5ivqZxRbLZjJMjQ&s">
 
 [![GitHub followers](https://img.shields.io/github/followers/ticiAngelucci?style=social)](https://github.com/ticiAngelucci)
 <a href="https://www.linkedin.com/in/ticiana-angelucci-12098b23a" target="_blank">
