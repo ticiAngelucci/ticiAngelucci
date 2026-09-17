@@ -27,7 +27,7 @@ I love building technology and exploring the intersection between **software dev
 - 🎤 Speaker & mentor at tech events and communities
 - 🚀 I love turning ideas into MVPs and real products
 - 📍 Mendoza, Argentina
-- 💙💛 Boca Juniors somehow finds its way into the color palette of many of my projects
+- 💙💛 Boca Juniors
 
 ---
 
